@@ -6,8 +6,8 @@
 
 Imaginez que vous êtes **réalisateur** et que votre produit est un **film**.
 
-- **L'AXE HORIZONTAL (de gauche à droite) = Votre SCÉNARIO.**C'est l'histoire que vous racontez, scène par scène, dans l'ordre._Exemple pour un film d'aventure :_ `Introduction du héros` → `Appel à l'aventure` → `Premier défi` → `Affrontement final` → `Retour triomphal`.
-- **L'AXE VERTICAL (de haut en bas) = La RICHESSE de chaque scène.**Sous chaque scène, vous empilez les détails : les **éléments essentiels** (en haut) et les **effets spéciaux/ bonus** (en bas)._Exemple sous "Affrontement final" :_ En haut : `Le combat a lieu`. Au milieu : `Une musique épique`. En bas : `Une explosion géante en arrière-plan`.
+- **L'AXE HORIZONTAL (de gauche à droite) = Votre SCÉNARIO.** C'est l'histoire que vous racontez, scène par scène, dans l'ordre._Exemple pour un film d'aventure :_ `Introduction du héros` → `Appel à l'aventure` → `Premier défi` → `Affrontement final` → `Retour triomphal`.
+- **L'AXE VERTICAL (de haut en bas) = La RICHESSE de chaque scène.** Sous chaque scène, vous empilez les détails : les **éléments essentiels** (en haut) et les **effets spéciaux/ bonus** (en bas)._Exemple sous "Affrontement final" :_ En haut : `Le combat a lieu`. Au milieu : `Une musique épique`. En bas : `Une explosion géante en arrière-plan`.
 - **LA LIGNE MAGIQUE = Votre PREMIER MONTAGE (le MVP).**
   Vous tracez une ligne horizontale. **Tout ce qui est AU-DESSUS de la ligne, c'est votre film sorti en salle.** Il est complet et captivant. Tout ce qui est en dessous, ce sont les scènes coupées ou les bonus pour le DVD.
 
