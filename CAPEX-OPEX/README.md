@@ -20,13 +20,13 @@ Ces concepts, empruntés au monde de l'entreprise, vous aideront à comprendre l
 
 Pour les **sprints écoulés**, vous devez estimer et présenter dans un tableau :
 
-| Sprint    | Tickets CAPEX (h) | Tickets OPEX (h) | Meetings/Cérémonies (h) | **Total Heures Équipe** |
-| :-------- | :---------------- | :--------------- | :---------------------- | :---------------------- |
-| Sprint 1  | [ex: 18h]         | [ex: 5h]         | [ex: 4h]                | [ex: 27h]               |
-| ...       | ...               | ...              | ...                     | ...                     |
-| **TOTAL** | **XXh**           | **XXh**          | **XXh**                 | **XXh**                 |
+| Sprint    | Temps CAPEX (h) | Temps OPEX (h) | Meetings/Cérémonies (h) | **Total Heures Équipe** |
+| :-------- | :-------------- | :------------- | :---------------------- | :---------------------- |
+| Sprint 1  | [ex: 18h]       | [ex: 5h]       | [ex: 4h]                | [ex: 27h]               |
+| ...       | ...             | ...            | ...                     | ...                     |
+| **TOTAL** | **XXh**         | **XXh**        | **XXh**                 | **XXh**                 |
 
-- **Heures "Tickets"** : Estimez le temps total passé par l'équipe sur les tickets de chaque catégorie. Utilisez vos données GitHub (labels, temps de résolution estimé) et votre expérience.
+- **Heures "Tickets"** : Estimez le temps total passé par l'équipe sur les tickets de chaque catégorie. Utilisez vos données GitHub (labels, temps de résolution estimé) et votre expérience. Veuillez lister les tickets et leur nature (CAPEX/OPEX) aussi.
 - **Heures "Meetings"** : Estimez le temps total passé en cérémonies Scrum et réunions d'équipe pour chaque sprint.
 
 #### **2. Rapport d'Analyse et de Réflexion (1 page max)**
