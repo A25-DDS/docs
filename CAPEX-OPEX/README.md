@@ -1,4 +1,4 @@
-# **Énoncé de Travail - Sprint 8 : Analyse OPEX/CAPEX & Rétrospective Financière**
+# **Énoncé de Travail - Sprint 6 : Analyse OPEX/CAPEX & Rétrospective Financière**
 
 ---
 
