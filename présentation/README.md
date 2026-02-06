@@ -113,7 +113,7 @@ Pour structurer votre travail, déposez **une semaine avant la soutenance** un d
 3. Le **résumé écrit** de vos "3 histoires Scrum" (Phase 3), avec mention des supports visuels utilisés.
 4. **Pour chaque membre** : Le texte final de son intervention en Phase 4.
 
-**Date de remise du plan :** dimanche 22 février à minuit au plus tard
+**Date de remise du plan :** mercredi 25 février à minuit au plus tard
 **Date et créneau de la soutenance :** 26 février 2026
 
 ---
