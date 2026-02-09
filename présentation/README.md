@@ -53,9 +53,9 @@ Cette partie est le cœur de votre démonstration de maîtrise. Structurez-la au
 - **Histoire de qualité** : Comment la Definition of Done, les revues de code ou une rétrospective spécifique ont amélioré la robustesse technique (montrez un graphique de bugs, un extrait de code avant/après).
 - **Histoire de collaboration** : Comment la clarification des rôles, les mêlées ou une facilitation du SM ont permis de surmonter un blocage majeur.
 
-### **PHASE 4 : BILAN & APPRENTISSAGES INDIVIDUELS (5 minutes)**
+### **PHASE 4 : BILAN & APPRENTISSAGES INDIVIDUELS (5-10 minutes)**
 
-_Animation : **Tour de table structuré, limité à 1h15 par personne**._
+_Animation : **Tour de table structuré, limité à 2/3 minutes par membre**._
 
 - **Chaque membre répond à la question :**_"En tant que [mon rôle], quelle est ma plus grande contribution à ce projet, et quelle compétence spécifique ai-je développée que je réutiliserai demain ?"_
   - **PO** : Focus sur la gestion du backlog, la priorisation, la communication de la valeur.
@@ -98,7 +98,7 @@ _Animation : **Tour de table structuré, limité à 1h15 par personne**._
 
 ### **3. Préparation Individuelle et Collective**
 
-- **Chaque membre prépare et mémorise son intervention de la Phase 4** (1h15 max). Elle doit être percutante et ne pas dériver vers une liste de tâches.
+- **Chaque membre prépare et mémorise son intervention de la Phase 4** (2-3 minutes max). Elle doit être percutante et ne pas dériver vers une liste de tâches.
 - **Construisez collectivement les "3 histoires" de la Phase 3.** Ce sont vos preuves les plus puissantes. Préparez les supports visuels associés (extraits de backlog, photos de tableau, métriques).
 - **Anticipez les questions** sur vos choix techniques, de priorisation, et sur les difficultés rencontrées.
 
@@ -108,7 +108,7 @@ _Animation : **Tour de table structuré, limité à 1h15 par personne**._
 
 Pour structurer votre travail, déposez **une semaine avant la soutenance** un document `PLAN_SOUTENANCE.md` dans votre repo contenant :
 
-1. Le **script détaillé et chronométré** (minute par minute) de vos 35 minutes de présentation.
+1. Le **script détaillé et chronométré** (minute par minute) de vos 35/40 minutes de présentation.
 2. Le **scénario pas-à-pas** de votre démonstration.
 3. Le **résumé écrit** de vos "3 histoires Scrum" (Phase 3), avec mention des supports visuels utilisés.
 4. **Pour chaque membre** : Le texte final de son intervention en Phase 4.
