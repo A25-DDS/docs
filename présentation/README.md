@@ -106,14 +106,17 @@ _Animation : **Tour de table structuré, limité à 2/3 minutes par membre**._
 
 ## **Livrable de Préparation**
 
-Pour structurer votre travail, déposez **une semaine avant la soutenance** un document `PLAN_SOUTENANCE.md` dans votre repo contenant :
+Pour structurer votre travail, déposez **un jour avant la soutenance** un document `PLAN_SOUTENANCE.md` dans votre repo contenant :
 
 1. Le **script détaillé et chronométré** (minute par minute) de vos 35/40 minutes de présentation.
 2. Le **scénario pas-à-pas** de votre démonstration.
 3. Le **résumé écrit** de vos "3 histoires Scrum" (Phase 3), avec mention des supports visuels utilisés.
-4. **Pour chaque membre** : Le texte final de son intervention en Phase 4.
+4. **Pour chaque membre** : Le texte final de son intervention en Phase 4. (non-obligatoire)\*
+
+**(\*) Juste pour Sonia**
 
 **Date de remise du plan :** mercredi 25 février à minuit au plus tard
+
 **Date et créneau de la soutenance :** 26 février 2026
 
 ---
