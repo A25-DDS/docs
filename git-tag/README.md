@@ -436,3 +436,219 @@ Push :
 ```
 git push origin v1.0.0
 ```
+
+---
+
+# 21. Récupérer les tags depuis le serveur (pull / fetch)
+
+Lorsque vous travaillez avec un serveur Git (GitHub, GitLab, etc.), les tags ne sont pas toujours récupérés automatiquement comme les branches.
+
+Il est donc important de savoir comment les récupérer.
+
+---
+
+## 21.1 Cas normal : récupération lors d’un clone
+
+Lorsque vous clonez un repository :
+
+```
+git clone https://github.com/utilisateur/projet.git
+```
+
+Git récupère automatiquement :
+
+- les commits
+- les branches
+- les tags
+
+Vous pouvez vérifier :
+
+```
+git tag
+```
+
+---
+
+## 21.2 Cas important : git pull ne récupère pas toujours les nouveaux tags
+
+Lorsque vous faites :
+
+```
+git pull
+```
+
+Git récupère :
+
+- les nouveaux commits
+- les branches mises à jour
+
+Mais pas forcément les nouveaux tags.
+
+---
+
+## 21.3 Récupérer tous les tags du serveur
+
+Commande recommandée :
+
+```
+git fetch --tags
+```
+
+Cette commande récupère :
+
+- tous les tags du serveur
+- sans modifier votre branche courante
+
+---
+
+## 21.4 Récupérer un tag spécifique
+
+```
+git fetch origin tag v1.0.0
+```
+
+---
+
+## 21.5 Vérifier les tags après récupération
+
+```
+git tag
+```
+
+Exemple :
+
+```
+v1.0.0
+v1.1.0
+v2.0.0
+```
+
+---
+
+# 22. Workflow complet équipe (très important)
+
+## Développeur A crée un tag
+
+```
+git tag -a v1.0.0 -m "Version stable"
+git push origin v1.0.0
+```
+
+---
+
+## Développeur B récupère le tag
+
+```
+git fetch --tags
+```
+
+---
+
+## Développeur B peut maintenant utiliser le tag
+
+```
+git checkout v1.0.0
+```
+
+---
+
+# 23. Cas serveur → déploiement (production)
+
+Sur un serveur :
+
+```
+git fetch --tags
+git checkout v1.0.0
+```
+
+Le serveur utilise maintenant exactement cette version.
+
+C’est extrêmement important pour :
+
+- production
+- Docker
+- CI/CD
+
+---
+
+# 24. Exemple réel : serveur de production
+
+Mettre à jour le serveur :
+
+```
+cd mon-projet
+
+git fetch --tags
+
+git checkout v2.1.0
+```
+
+Le serveur exécute maintenant :
+
+```
+version 2.1.0
+```
+
+---
+
+# 25. Bonne pratique professionnelle
+
+Toujours utiliser :
+
+```
+git fetch --tags
+```
+
+avant de déployer une version.
+
+---
+
+# 26. Différence entre pull et fetch --tags
+
+| Commande         | Effet                        |
+| ---------------- | ---------------------------- |
+| git pull         | récupère commits et branches |
+| git fetch --tags | récupère les tags            |
+| git fetch        | récupère commits             |
+| git clone        | récupère tout                |
+
+---
+
+# 27. Workflow complet professionnel
+
+Sur machine développeur :
+
+```
+git tag -a v1.2.0 -m "Version stable"
+git push origin v1.2.0
+```
+
+Sur serveur :
+
+```
+git fetch --tags
+git checkout v1.2.0
+```
+
+---
+
+# 28. Résumé simple à retenir
+
+Créer tag :
+
+```
+git tag -a v1.0.0 -m "Version stable"
+git push origin v1.0.0
+```
+
+Récupérer tag :
+
+```
+git fetch --tags
+```
+
+Utiliser tag :
+
+```
+git checkout v1.0.0
+```
